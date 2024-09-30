@@ -1,0 +1,6 @@
+@PessoaPassaporte_HostAddress = http://localhost:5201
+
+GET {{PessoaPassaporte_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
